@@ -1,14 +1,13 @@
 Status of the work:
 |Week| FAQ | Tutorial | Test Case|
 |---|---|---|---|
-|1|
-|2|
-|3|
-|4|
-|5|
-|6|
-|7|
-|8|
-|9|
-|10|
-|11|
+|General FAQ|
+|ex1|
+|ex2|
+|ex3|
+|ex4|
+|ex5|
+|ex6|
+|ex7|
+|ex8|
+|week 10 and 11|
