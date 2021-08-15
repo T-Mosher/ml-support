@@ -1,6 +1,6 @@
 ### Q1) How do I get started?
 
-<ADD> Read the Important Notes for New ML Students.
+(insert the "Important Notes for New ML Students" here)
 
 Familiarize yourself with the Resources menu (see the links on the left side of your browswer) and the Discussion Forums. 
 
