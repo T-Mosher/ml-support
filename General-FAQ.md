@@ -30,7 +30,7 @@ The '1/m' portion is so that the cost is scaled to a per-example basis. Later in
 
 The '1/2' portion is a calculus trick, so that it will cancel with the '2' which appears in the numerator when we compute the partial derivatives. This saves us a computation in the cost function.
 
-#Q4) In the cost function, why don't we use absolute value instead of the squared error?
+### Q4) In the cost function, why don't we use absolute value instead of the squared error?
 
 The absolute value has some bad characteristics for minimization.
 
