@@ -1,14 +1,13 @@
 ### Q1) How do I get started?
 
-Read the Important Notes for New ML Students.
+<ADD> Read the Important Notes for New ML Students.
 
 Familiarize yourself with the Resources menu (see the links on the left side of your browswer) and the Discussion Forums. 
 
-Please read this general FAQ page in the Week 1 course materials.
+Questions regarding Machine Learning should be posted on the course Discussion Forums
 
-Questions regarding Machine Learning should be posted on the Discussion Forums
-
-Technical issues/suggestions should either be reported via the small flag icon on the bottom right of the videos, or via the Help Center using a support ticket message or live chat (not on the Community Forums). Certificate related issues should also be sent to the Help Center.
+Technical issues/suggestions regarding the videos should either be reported via the small flag icon on the bottom right of the videos, or via the Help Center.
+Certificate related issues should also be sent to the Help Center.
 
 ### Q2) What are the course pre-requisites?
 
@@ -21,7 +20,9 @@ Are not frightened of solving a system of linear equations.
 Know how to multiply matrices and vectors.
 Lacking those skills, you can still complete the course, but it will take considerably more time and study.   
 
-The course is not heavy in math - linear algebra is a benefit, calculus is not required.
+The course is not heavy in math - linear algebra is a benefit, some statistics is helpful, calculus is not required.
+ 
+If you do not have any programming experience, consider taking an introduction to programming course, such as Mathwork's "MATLAB Onramp".
 
 ### Q3) Why does the cost function include multiplying by 1/(2m)?
 
