@@ -1,7 +1,7 @@
 Status of the work:
 |Week| FAQ | Tutorial | Test Case|
 |---|---|---|---|
-|General FAQ|no|-|-|
+|General FAQ|done|-|-|
 |ex1|
 |ex2|
 |ex3|
