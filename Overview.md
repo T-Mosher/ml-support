@@ -10,4 +10,4 @@ Status of the work:
 |ex6|
 |ex7|
 |ex8|
-|Weeks 10/11|no|-|-|
+|Weeks 10/11||-|-|
