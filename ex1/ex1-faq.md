@@ -1,4 +1,5 @@
 ## LECTURE VIDEO FAQ
+θ
 
 ### Q1) Where can I find notes on the lecture videos?
 
@@ -49,9 +50,9 @@ If you use WINRAR to extract the contents of the programming exercise zip files 
 
 The submit process was changed after the videos were recorded. Now all parts of the exercise are evaluated each time you run the submit script. 
 
-### Q3) I am using Octave 4.0.0, and I get some errors when I run the submit script. What can I  do?
+### Q3) I am using Octave, and I get some errors when I run the submit script. What can I  do?
 
-Do not use Octave 4.0.0 - it has a fatal error for the submit script. Use Octave 4.0.1 (or later), or MATLAB. 
+Do not use Octave 3.8 or 4.0.0 - they have errors for the submit script. Use Octave 6.2.0 (or later), or switch to MATLAB Online.
 
 See the "Installation Issues" section of the Resources menu. 
 
@@ -70,7 +71,7 @@ If you have a strong regional firewall, try using a VPN.
 
 ### Q4b) When I run the submit script, I get an HTML error that includes "Oops, an error occurred"
 
-This will happen if you are using Octave 4.0.0. Octave 4.0.0 is broken. Install Octave 4.0.1 or later.
+This will happen if you are using Octave 4.0.0. Octave 4.0.0 is broken. Do not use it. See Q3 above.
 
 Another cause of this error is if you have more than one Coursera account, or if you registered through Facebook. If so, contact the Help Center. 
 
